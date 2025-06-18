@@ -73,8 +73,16 @@ ExpenseTracker/
 
 ## 📊 Dashboard Preview
 
-### 🖥️ Full Dashboard View
-<img width="620" alt="image" src="https://github.com/user-attachments/assets/8f6595bf-6c1d-4e2f-a563-d6d4350f3e56" />
+### 🖥️ Preview for April-25
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/e73b3a7f-a1e9-45fe-ab92-48848cbd0792" />
+
+### 🖥️ Preview for May-25
+<img width="520" alt="image" src="https://github.com/user-attachments/assets/81a0a884-fc36-45e6-a68e-01a2b2208bb6" />
+
+### 🖥️ Preview for June-25
+<img width="520" alt="image" src="https://github.com/user-attachments/assets/2f98f581-fb69-43fb-8335-212dfa74885d" />
+
+
 
 
 
