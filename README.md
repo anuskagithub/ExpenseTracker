@@ -33,20 +33,42 @@ ExpenseTracker/
 
 ## 📸 CLI Working Screenshots
 
-<img width="271" src="https://github.com/user-attachments/assets/a8d4ca4a-9bd1-446c-86d9-7b0e20ad19c6" />
+<img width="268" alt="image" src="https://github.com/user-attachments/assets/0329d007-9557-4608-9f02-0964bf9a4ab0" />
 
 ### ➕ Add Expense
-<img width="409" alt="image" src="https://github.com/user-attachments/assets/515916ef-3125-4f45-bc43-d62cc21929dd" />
+<img width="394" alt="image" src="https://github.com/user-attachments/assets/23126755-fcbc-411a-a00e-51ce76578c6d" />
 
 
 ### 📋 View All Expenses
-<img width="331" alt="image" src="https://github.com/user-attachments/assets/49f72cda-44f4-4a40-9768-3acdef2c6f35" />
+<img width="301" alt="image" src="https://github.com/user-attachments/assets/f1ddbc2b-3e9f-48d2-984f-1398554e5193" />
 
 ### 🧾 Spending Summary
-<img width="322" alt="image" src="https://github.com/user-attachments/assets/8f68e1a3-5b48-420e-9401-10a91ec47e08" />
+<img width="259" alt="image" src="https://github.com/user-attachments/assets/5c65d1e0-9e75-414a-a737-63fda69bd205" />
+
 
 ### 🔍 Filter By Category
-<img width="318" alt="image" src="https://github.com/user-attachments/assets/200a1934-cbb5-4f73-9458-cf1eb321dac5" />
+<img width="248" alt="image" src="https://github.com/user-attachments/assets/c3700cca-579a-4b04-84b0-bfbce55dadc8" />
+
+### ❌ Delete Expenses
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/1bc75534-8b86-4b18-827a-4450adb0e4e6" />
+
+### 🔍 Predict Next Month Expenses
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/19d67eff-68ee-4dd3-8324-c7717c17824f" />
+
+### 📊 Show Category Probabilities
+<img width="355" alt="image" src="https://github.com/user-attachments/assets/40de6b4e-f45a-4b4a-8dc3-70c50f420490" />
+
+### 📈 Show Expense Statistics
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/f8f40999-a789-4077-80b2-d54badb7300b" />
+
+### 🤖 Classify Spending Habit (AI)
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/0f0c574a-6f55-464b-b397-26b9b050b1a1" />
+
+### 🧠 Predict Category using Naive Bayes
+<img width="277" alt="image" src="https://github.com/user-attachments/assets/7b3d0cf3-edfb-448c-bfea-d136b0f3e620" />
+
+### ❌ Exit
+<img width="229" alt="image" src="https://github.com/user-attachments/assets/4dffe369-6b87-49c6-8084-f3f6226352de" />
 
 
 ## 📊 Dashboard Preview
