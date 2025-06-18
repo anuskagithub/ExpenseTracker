@@ -31,15 +31,20 @@ ExpenseTracker/
 ```
 
 
-<h3>📸 CLI Working Screenshots</h3>
+## 📸 CLI Working Screenshots
 
-<p align="center">
-  <img width="270" src="https://github.com/user-attachments/assets/a8d4ca4a-9bd1-446c-86d9-7b0e20ad19c6" />
-  <img width="260" src="https://github.com/user-attachments/assets/2154ab69-875d-46a0-b5d9-c3f3a5372189" />
-  <img width="420" src="https://github.com/user-attachments/assets/6f076b87-5182-4c26-917a-3efe837ee883" />
-  <img width="283" alt="image" src="https://github.com/user-attachments/assets/9b27c437-f78f-44bc-ac68-e22df009b1bf" />
+### ➕ Add Expense
+<img width="271" src="https://github.com/user-attachments/assets/a8d4ca4a-9bd1-446c-86d9-7b0e20ad19c6" />
 
-</p>
+### 📋 View All Expenses
+<img width="260" src="https://github.com/user-attachments/assets/2154ab69-875d-46a0-b5d9-c3f3a5372189" />
+
+### 🔍 Filter by Category
+<img width="422" src="https://github.com/user-attachments/assets/6f076b87-5182-4c26-917a-3efe837ee883" />
+
+### 🧾 Spending Summary
+<img width="283" src="https://github.com/user-attachments/assets/9b27c437-f78f-44bc-ac68-e22df009b1bf" />
+
 
 
 
