@@ -17,4 +17,15 @@ Track your daily expenses from the command line using C++ and visualize your mon
 
 
 ## 📁 Project Structure
-<pre><code>## 📁 Project Structure ``` ExpenseTracker/ │ ├── cpp/ │ └── expense_advanced.cpp # C++ source file (main CLI logic) │ ├── python/ │ └── dashboard.py # Dash dashboard for visualization │ ├── data/ │ └── expenses.csv # CSV file storing expenses │ └── README.md # Project overview and instructions ``` </code></pre>
+```
+ExpenseTracker/
+│
+├── cpp/
+│   └── expense_advanced.cpp       # C++ source file (main CLI logic)
+│
+├── python/
+│   └── dashboard.py               # Dash dashboard for visualization
+│
+├── data/
+│   └── expenses.csv               # CSV file storing expenses
+```
