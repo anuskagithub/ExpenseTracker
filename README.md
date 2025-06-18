@@ -44,6 +44,10 @@ ExpenseTracker/
 ### 🧾 Spending Summary
 <img width="283" src="https://github.com/user-attachments/assets/9b27c437-f78f-44bc-ac68-e22df009b1bf" />
 
+### 🔍 Filter By Category
+<img width="265" alt="image" src="https://github.com/user-attachments/assets/c39fe679-8229-440c-a768-0e6821a09dbb" />
+
+
 
 
 
