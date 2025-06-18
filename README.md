@@ -50,8 +50,8 @@ ExpenseTracker/
 ## 📊 Dashboard Preview
 
 ### 🖥️ Full Dashboard View
-![Full Dashboard](<img width="625" alt="image" src="https://github.com/user-attachments/assets/42fb2060-ca8c-4403-9e01-21a4cb46cb24" />
-)
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/42fb2060-ca8c-4403-9e01-21a4cb46cb24" />
+
 
 
 
