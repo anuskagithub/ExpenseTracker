@@ -47,6 +47,11 @@ ExpenseTracker/
 ### 🔍 Filter By Category
 <img width="265" alt="image" src="https://github.com/user-attachments/assets/c39fe679-8229-440c-a768-0e6821a09dbb" />
 
+## 📊 Dashboard Preview
+
+### 🖥️ Full Dashboard View
+![Full Dashboard](<img width="625" alt="image" src="https://github.com/user-attachments/assets/42fb2060-ca8c-4403-9e01-21a4cb46cb24" />
+)
 
 
 
