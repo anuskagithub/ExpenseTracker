@@ -36,21 +36,23 @@ ExpenseTracker/
 <img width="271" src="https://github.com/user-attachments/assets/a8d4ca4a-9bd1-446c-86d9-7b0e20ad19c6" />
 
 ### ➕ Add Expense
-<img width="422" src="https://github.com/user-attachments/assets/6f076b87-5182-4c26-917a-3efe837ee883" />
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/515916ef-3125-4f45-bc43-d62cc21929dd" />
+
 
 ### 📋 View All Expenses
-<img width="260" src="https://github.com/user-attachments/assets/2154ab69-875d-46a0-b5d9-c3f3a5372189" />
+<img width="331" alt="image" src="https://github.com/user-attachments/assets/49f72cda-44f4-4a40-9768-3acdef2c6f35" />
 
 ### 🧾 Spending Summary
-<img width="283" src="https://github.com/user-attachments/assets/9b27c437-f78f-44bc-ac68-e22df009b1bf" />
+<img width="322" alt="image" src="https://github.com/user-attachments/assets/8f68e1a3-5b48-420e-9401-10a91ec47e08" />
 
 ### 🔍 Filter By Category
-<img width="265" alt="image" src="https://github.com/user-attachments/assets/c39fe679-8229-440c-a768-0e6821a09dbb" />
+<img width="318" alt="image" src="https://github.com/user-attachments/assets/200a1934-cbb5-4f73-9458-cf1eb321dac5" />
+
 
 ## 📊 Dashboard Preview
 
 ### 🖥️ Full Dashboard View
-<img width="625" alt="image" src="https://github.com/user-attachments/assets/42fb2060-ca8c-4403-9e01-21a4cb46cb24" />
+<img width="620" alt="image" src="https://github.com/user-attachments/assets/8f6595bf-6c1d-4e2f-a563-d6d4350f3e56" />
 
 
 
