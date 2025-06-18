@@ -21,7 +21,7 @@ Track your daily expenses from the command line using C++ and visualize your mon
 ExpenseTracker/
 │
 ├── cpp/
-│   └── expense_advanced.cpp       # C++ source file (main CLI logic)
+│   └── expense_entry.cpp       # C++ source file (main CLI logic)
 │
 ├── python/
 │   └── dashboard.py               # Dash dashboard for visualization
