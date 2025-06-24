@@ -10,6 +10,13 @@ Track your daily expenses from the command line using C++ and visualize your mon
 - Delete incorrect entries
 - Stores data in `expenses.csv` (CSV format)
 
+🤖 AI-Powered Analytics (C++ - from scratch)
+- 📈 Linear Regression – Predict next month's expense based on past spending
+- 📊 K-Means Clustering – Classify your spending behavior as Frugal, Balanced, or Overspender
+- 🧠 Naive Bayes Classifier – Predict the most likely category for a new expense based on amount
+- 📉 Statistical Summary – Calculate and display mean, variance, and standard deviation of expenses
+- 📂 Category Probability Distribution – Visualize how frequently each category is used
+
 ### 📊 Python Dashboard
 - Reads data from the CSV file
 - Displays interactive **bar** and **pie charts** using Dash & Plotly
