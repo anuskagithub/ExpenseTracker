@@ -1,4 +1,4 @@
-# Personal Expense Tracker
+# Personal Finance Tracker with AI Insights
 Track your daily expenses from the command line using C++ with built-in AI insights, and visualize monthly spending through an interactive Python dashboard.
 
 ## 📌 Features
