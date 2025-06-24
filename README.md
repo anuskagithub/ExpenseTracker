@@ -1,5 +1,5 @@
 # Personal Expense Tracker
-Track your daily expenses from the command line using C++ and visualize your monthly spending with an interactive Python dashboard.
+Track your daily expenses from the command line using C++ with built-in AI insights, and visualize monthly spending through an interactive Python dashboard.
 
 ## 📌 Features
 ### 🖥️ C++ CLI Application
