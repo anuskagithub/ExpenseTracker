@@ -59,16 +59,16 @@ ExpenseTracker/
 ### ❌ Delete Expenses
 <img width="302" alt="image" src="https://github.com/user-attachments/assets/1bc75534-8b86-4b18-827a-4450adb0e4e6" />
 
-### 🔍 Predict Next Month Expenses
+### 🔍 Predict Next Month Expenses (AI Analytics)
 <img width="386" alt="image" src="https://github.com/user-attachments/assets/19d67eff-68ee-4dd3-8324-c7717c17824f" />
 
-### 📊 Show Category Probabilities
+### 📊 Show Category Probabilities (AI Analytics)
 <img width="355" alt="image" src="https://github.com/user-attachments/assets/40de6b4e-f45a-4b4a-8dc3-70c50f420490" />
 
-### 📈 Show Expense Statistics
+### 📈 Show Expense Statistics (AI Analytics)
 <img width="290" alt="image" src="https://github.com/user-attachments/assets/f8f40999-a789-4077-80b2-d54badb7300b" />
 
-### 🤖 Classify Spending Habit (AI)
+### 🤖 Classify Spending Habit (AI Analytics)
 <img width="441" alt="image" src="https://github.com/user-attachments/assets/0f0c574a-6f55-464b-b397-26b9b050b1a1" />
 
 ### 🧠 Predict Category using Naive Bayes
